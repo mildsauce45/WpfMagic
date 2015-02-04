@@ -1,6 +1,13 @@
 # WpfMagic
 A library minimizes the amount of XAML required to create a modern WPF application
 
+## Why use WpfMagic
+Key features of WpfMagic include:
+* _Mystical Binding_ - No XAML binding statements!
+* _Automatic DataTemplate Selection_ - No DataTemplates crowding up your views!
+* _Boilerplateless Property Change Notification_ - No need to write notification code or helpers!
+* _Control type agnostic_ - Paid for those fancy Telerik controls? No problem, we can use our fancy binding and template logic with anything!
+
 ##Sample Application
 
 The BDD Sharp application contained in this repo is Behavior Driven Development application written in WPF and using the WpfMagic

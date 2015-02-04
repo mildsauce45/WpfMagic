@@ -11,6 +11,10 @@ $RECYCLE.BIN/
 [Bb]in/
 [Oo]bj/
 
+*.suo
+*.user
+*.sln.docstates
+
 # Windows Installer files
 *.cab
 *.msi
